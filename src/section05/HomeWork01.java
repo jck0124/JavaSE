@@ -59,7 +59,7 @@ public class HomeWork01 {
 					System.out.print("*");
 				}
 				System.out.println();
-			}else if(i>=4){
+			}else {
 				// i=4,5,6
 				for(int j=0;j<i-3;j++) {
 					// 1 2 3
@@ -74,12 +74,6 @@ public class HomeWork01 {
 		}
 		
 		System.out.println("=====================");
-		
-		
-		
-		
-		
-
 		
 		
 		
